@@ -1,6 +1,13 @@
 # whatsapp
 
-A new Flutter project.
+This app is designed to be responsive, functioning on both mobile and web platforms. Its primary focus is on practicing and demonstrating responsive design principles rather than implementing extensive features. The goal is to showcase how the app adjusts to different screen sizes and orientations, ensuring a consistent and user-friendly experience across devices.
+
+
+
+
+
+
+
 
 ## Getting Started
 
